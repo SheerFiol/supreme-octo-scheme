@@ -6,5 +6,6 @@ public class Test{
 		int num = in.nextInt();
 		num *= 2;
 		System.out.printf("The number is %d after being doubled\n",num);
+		System.out.println("This is an update from git hub");
 	}
 }
